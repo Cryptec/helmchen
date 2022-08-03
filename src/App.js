@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Helmchen:</p>
+        <p>Trägt Helmchen</p>
         <div>seit {Days()} Tagen.</div>
       </header>
     </div>
